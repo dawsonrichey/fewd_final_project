@@ -41,14 +41,12 @@ section:last-child {
 
 .nav {
   background: #4baac8;
-  }
+}
 
 .nav a {
   color: black;
   font-style: italic;
 }
-
-
 
 .nav li a:hover,
 .nav li a:focus {
@@ -101,13 +99,11 @@ section:last-child {
 
 .affix {
   top: 0px;
-
 }
 
 .affix, 
 .affix-bottom {
     width: auto;
-
 }
 
 .affix-bottom {
@@ -124,17 +120,9 @@ footer p {
   margin-bottom: 0;
 }
 
-li a {
-  float: left;
-  display: inline-table;
-  
-}
-
 @media (min-width:1200px) {
   .affix, 
   .affix-bottom {
+    width: 263px;
   }
-
-
 }
-

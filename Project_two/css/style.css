@@ -1,0 +1,56 @@
+ /** DAWSON WAS HERE **/
+/**       2017      **/
+
+
+/********  1.BASIC FORMATTING  *********/
+
+*{
+  box-sizing: border-box;
+}
+
+body {
+  background: #e6e6e6;
+  margin: 0 auto;
+  }
+
+
+/*******   2. NAVAGATION   ********/
+ 
+nav{
+  background-color: #0fb853;
+
+}
+
+navbar{
+  background-color: #5ab853;
+}
+ul li{
+  display: inline;
+}
+
+
+
+/*******   3. HEADERS   ********/
+
+h1 {
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+  font-size: 36px;
+  text-transform: uppercase;
+  color: #0db55c;
+}
+
+h2 {
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #555;
+}
+
+section {
+  padding: 40px 0;
+  border-bottom: 1px solid #c1e1ec;
+}
+
+/*******   4. TABLE   ********/
